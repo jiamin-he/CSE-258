@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{1}
+\begin{thebibliography}{3}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -37,13 +37,32 @@
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
 
+\bibitem[\protect\citeauthoryear{??}{us}{[n. d.]}]%
+        {us}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \bibinfo{booktitle}{{\em Bike Share in the US: 2010-2016}}.
+\newblock
+\newblock
+\shownote{\url{https://nacto.org/bike-share-statistics-2016/}.}
+
+
 \bibitem[\protect\citeauthoryear{??}{bik}{[n. d.]}]%
         {bike}
  \bibinfo{year}{[n. d.]}\natexlab{}.
-\newblock \bibinfo{booktitle}{{\em Metro Bike Share system in Los Angeles}}.
+\newblock \bibinfo{booktitle}{{\em Citi Bike Share system in New York City}}.
 \newblock
 \newblock
-\shownote{\url{https://bikeshare.metro.net/how-it-works/}.}
+\shownote{\url{https://www.citibikenyc.com}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{spr}{[n. d.]}]%
+        {spread}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \bibinfo{booktitle}{{\em How bike share is changing American
+  cities}}.
+\newblock
+\newblock
+\shownote{\url{https://www.curbed.com/2017/3/21/15006248/bike-share-ridership-transit-safety}.}
 
 
 \end{thebibliography}

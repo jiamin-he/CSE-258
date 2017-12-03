@@ -1054,6 +1054,16 @@ Computing Machinery]
 \def\@journalNameShort{\@journalName}%
 \def\@permissionCodeOne{XXXX-XXXX}%
 \def\@permissionCodeTwo{}%
+% \newcommand\acmConference[4][]{%
+%   \gdef\acmConference@shortname{#1}%
+%   \gdef\acmConference@name{#2}%
+%   \gdef\acmConference@date{#3}%
+%   \gdef\acmConference@venue{#4}%
+%   \ifx\acmConference@shortname\@empty
+%     \gdef\acmConference@shortname{#2}%
+%   \fi}
+% \acmConference[Conference'17]{ACM Conference}{July 2017}{Washington,
+  % DC, USA}
 \newcommand\acmConference[4][]{%
   \gdef\acmConference@shortname{#1}%
   \gdef\acmConference@name{#2}%
@@ -1061,9 +1071,9 @@ Computing Machinery]
   \gdef\acmConference@venue{#4}%
   \ifx\acmConference@shortname\@empty
     \gdef\acmConference@shortname{#2}%
-  \fi}
-\acmConference[Conference'17]{ACM Conference}{July 2017}{Washington,
-  DC, USA}
+  \fi
+  }
+\acmConference[CSE 258]{Assignment 2}{Nov 2017}{Assignment 2}
 \def\acmBooktitle#1{\gdef\@acmBooktitle{#1}}
 \acmBooktitle{Proceedings of \acmConference@name
        \ifx\acmConference@name\acmConference@shortname\else
@@ -2094,21 +2104,21 @@ Computing Machinery]
       \string\titlenote{} or \string\authornote{} instead!}}%
   \def\@article@string{\ifx\@acmArticle\@empty{\ }\else,
     Article~\@acmArticle\ \fi}%
-  \par\medskip\small\noindent{\bfseries ACM Reference Format:}\par\nobreak
-  \noindent\authors. \@acmYear. \@title
-  \ifx\@subtitle\@empty. \else: \@subtitle. \fi
-  \if@ACM@journal
-     \textit{\@journalNameShort}
-     \@acmVolume, \@acmNumber \@article@string (\@acmPubDate),
-     \ref{TotPages}~\@pages@word.
-  % \else
-  %    In \textit{\@acmBooktitle}%
-  %    \ifx\@acmEditors\@empty\textit{.}\else
-  %      \andify\@acmEditors\textit{, }\@acmEditors~\@editorsAbbrev.%
-  %    \fi\
-  %    ACM, New York, NY, USA%
-  %      \@article@string\unskip, \ref{TotPages}~\@pages@word.
-  \fi
+  % \par\medskip\small\noindent{\bfseries ACM Reference Format:}\par\nobreak
+  % \noindent\authors. \@acmYear. \@title
+  % \ifx\@subtitle\@empty. \else: \@subtitle. \fi
+    % \if@ACM@journal
+    %    \textit{\@journalNameShort}
+    %    \@acmVolume, \@acmNumber \@article@string (\@acmPubDate),
+    %    \ref{TotPages}~\@pages@word.
+    %     % \else
+    %     %    In \textit{\@acmBooktitle}%
+    %     %    \ifx\@acmEditors\@empty\textit{.}\else
+    %     %      \andify\@acmEditors\textit{, }\@acmEditors~\@editorsAbbrev.%
+    %     %    \fi\
+    %     %    ACM, New York, NY, USA%
+    %     %      \@article@string\unskip, \ref{TotPages}~\@pages@word.
+    % \fi
   % \@formatdoi{\@acmDOI}
 \par\egroup}
 \def\@printendtopmatter{\par\bigskip}

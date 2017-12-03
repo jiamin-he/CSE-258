@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex taxi-prediction"] 1512178038 "taxi-prediction.aux" "taxi-prediction.bbl" "taxi-prediction" 1512178092
+["bibtex taxi-prediction"] 1512287049 "taxi-prediction.aux" "taxi-prediction.bbl" "taxi-prediction" 1512287503
   "./ACM-Reference-Format.bst" 1511749430 81890 d0c962ee7b00c892f073ec6439091590 ""
-  "taxi-bibliography.bib" 1512177590 2067 ee56b1151f22a56ba66a8374db036e62 ""
-  "taxi-prediction.aux" 1512178091 1636 2b7cc8a21daaa08f4f488eb9087f4c04 ""
+  "taxi-bibliography.bib" 1512282680 2168 b3d44da99f39d84fab237089ff436641 ""
+  "taxi-prediction.aux" 1512287502 2248 130c0b9cce8a5bc000d4d4c65d08465e ""
   (generated)
-  "taxi-prediction.blg"
   "taxi-prediction.bbl"
-["pdflatex"] 1512178091 "taxi-prediction.tex" "taxi-prediction.pdf" "taxi-prediction" 1512178092
+  "taxi-prediction.blg"
+["pdflatex"] 1512287501 "taxi-prediction.tex" "taxi-prediction.pdf" "taxi-prediction" 1512287503
   "/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490133665 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490133665 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490133665 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -153,15 +153,16 @@
   "/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1509380761 2337955 cbae1c8f078d563f1a52d3a956d59179 ""
   "/usr/local/texlive/2017basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1506986632 2588968 77191adb4cdf90d8258099c98330a75f ""
   "/usr/local/texlive/2017basic/texmf.cnf" 1496851631 628 b344fac068e513a3e5fe2214c3a47398 ""
-  "acmart.cls" 1511729845 84086 4102e2ae1f345ce7c51ae3b968dc9d7c ""
-  "taxi-body.tex" 1512178082 4586 1d2dde7366cb2a33ad9906bab8e2a192 ""
-  "taxi-prediction.aux" 1512178091 1636 2b7cc8a21daaa08f4f488eb9087f4c04 ""
-  "taxi-prediction.bbl" 1512178038 2049 80f59a0c4611063a69a42948bc2866c8 "bibtex taxi-prediction"
-  "taxi-prediction.out" 1512178091 959 1a54eb2c54f1d2d87c8aa2097aa20a44 ""
-  "taxi-prediction.tex" 1512174514 4050 f4979c08196a83b02f67981189ea3dd5 ""
+  "acmart.cls" 1512285915 84504 4c479e2c6ff1617822fb869c6664c3ea ""
+  "images/intro.png" 1512281084 29342 1615ce73dd37ac9cb7a9b6f005bb55f3 ""
+  "taxi-body.tex" 1512287498 7523 631b56f658cdb4ab43cd99a97f97e9d4 ""
+  "taxi-prediction.aux" 1512287502 2248 130c0b9cce8a5bc000d4d4c65d08465e ""
+  "taxi-prediction.bbl" 1512287049 2602 be3ee29b23fd17f36767266109a015e4 "bibtex taxi-prediction"
+  "taxi-prediction.out" 1512287502 959 b0a4ad2a8d290a8d4695aa262a6a4405 ""
+  "taxi-prediction.tex" 1512285067 3656 47e33a7b800549507a917e7b14d687be ""
   (generated)
-  "comment.cut"
-  "taxi-prediction.out"
-  "taxi-prediction.aux"
   "taxi-prediction.pdf"
+  "comment.cut"
+  "taxi-prediction.aux"
+  "taxi-prediction.out"
   "taxi-prediction.log"
