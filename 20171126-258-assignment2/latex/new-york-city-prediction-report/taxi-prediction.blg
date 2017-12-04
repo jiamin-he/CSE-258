@@ -18,18 +18,43 @@ Warning--to sort, need author, editor, or key in spread
 Warning--no key, author, editor or organization in geopy
 Warning--no author, editor, organization, or key in geopy
 Warning--to sort, need author, editor, or key in geopy
+Warning--no key, author, editor or organization in wiki
+Warning--no author, editor, organization, or key in wiki
+Warning--to sort, need author, editor, or key in wiki
+Warning--no key, author, editor or organization in xgb
+Warning--no author, editor, organization, or key in xgb
+Warning--to sort, need author, editor, or key in xgb
+Warning--no key, author, editor or organization in adv
+Warning--no author, editor, organization, or key in adv
+Warning--to sort, need author, editor, or key in adv
+Warning--no key, author, editor or organization in ka
+Warning--no author, editor, organization, or key in ka
+Warning--to sort, need author, editor, or key in ka
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--no key, author, editor or organization in adv
+Warning--no key, author, editor or organization in adv
 Warning--no key, author, editor or organization in bike
 Warning--no key, author, editor or organization in bike
 Warning--no key, author, editor or organization in geopy
 Warning--no key, author, editor or organization in geopy
+Warning--no key, author, editor or organization in ka
+Warning--no key, author, editor or organization in ka
 Warning--no key, author, editor or organization in spread
 Warning--no key, author, editor or organization in spread
 Warning--no key, author, editor or organization in us
 Warning--no key, author, editor or organization in us
+Warning--no key, author, editor or organization in wiki
+Warning--no key, author, editor or organization in wiki
+Warning--no key, author, editor or organization in xgb
+Warning--no key, author, editor or organization in xgb
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author, editor or organization in adv
+Warning--no author, editor, organization, or key in adv
+Warning--empty organization in adv
+Warning--empty year in adv
+Warning--empty organization in adv
 Warning--no key, author, editor or organization in us
 Warning--no author, editor, organization, or key in us
 Warning--empty organization in us
@@ -40,59 +65,76 @@ Warning--no author, editor, organization, or key in bike
 Warning--empty organization in bike
 Warning--empty year in bike
 Warning--empty organization in bike
+Warning--no key, author, editor or organization in xgb
+Warning--no author, editor, organization, or key in xgb
+Warning--empty organization in xgb
+Warning--empty year in xgb
+Warning--empty organization in xgb
 Warning--no key, author, editor or organization in spread
 Warning--no author, editor, organization, or key in spread
 Warning--empty organization in spread
 Warning--empty year in spread
 Warning--empty organization in spread
+Warning--no key, author, editor or organization in ka
+Warning--no author, editor, organization, or key in ka
+Warning--empty organization in ka
+Warning--empty year in ka
+Warning--empty organization in ka
 Warning--no key, author, editor or organization in geopy
 Warning--no author, editor, organization, or key in geopy
 Warning--empty organization in geopy
 Warning--empty year in geopy
 Warning--empty organization in geopy
+Warning--no key, author, editor or organization in wiki
+Warning--no author, editor, organization, or key in wiki
+Warning--empty organization in wiki
+Warning--empty year in wiki
+Warning--empty organization in wiki
+Warning--empty publisher in cor
+Warning--empty address in cor
 Warning--empty publisher in vogel
 Warning--empty address in vogel
 Warning--page numbers missing in both pages and numpages fields in vogel
 Warning--numpages field, but no articleno or eid field, in zheng
-You've used 10 entries,
+You've used 17 entries,
             5795 wiz_defined-function locations,
-            1376 strings with 17210 characters,
-and the built_in function-call counts, 10324 in all, are:
-= -- 1170
-> -- 276
+            1409 strings with 17971 characters,
+and the built_in function-call counts, 16642 in all, are:
+= -- 1875
+> -- 375
 < -- 0
-+ -- 94
-- -- 88
-* -- 755
-:= -- 902
-add.period$ -- 45
-call.type$ -- 10
-change.case$ -- 60
-chr.to.int$ -- 10
-cite$ -- 70
-duplicate$ -- 995
-empty$ -- 730
-format.name$ -- 112
-if$ -- 2551
++ -- 131
+- -- 124
+* -- 1168
+:= -- 1394
+add.period$ -- 76
+call.type$ -- 17
+change.case$ -- 93
+chr.to.int$ -- 17
+cite$ -- 135
+duplicate$ -- 1656
+empty$ -- 1227
+format.name$ -- 152
+if$ -- 4175
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 26
-newline$ -- 127
-num.names$ -- 48
-pop$ -- 518
+missing$ -- 39
+newline$ -- 186
+num.names$ -- 72
+pop$ -- 915
 preamble$ -- 1
-purify$ -- 126
+purify$ -- 198
 quote$ -- 0
-skip$ -- 302
+skip$ -- 493
 stack$ -- 0
-substring$ -- 663
-swap$ -- 90
+substring$ -- 1058
+swap$ -- 147
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 258
-warning$ -- 44
-while$ -- 40
+type$ -- 440
+warning$ -- 86
+while$ -- 69
 width$ -- 0
-write$ -- 210
-(There were 44 warnings)
+write$ -- 320
+(There were 86 warnings)

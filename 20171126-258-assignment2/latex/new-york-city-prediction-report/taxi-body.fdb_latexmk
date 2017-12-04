@@ -1,11 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1512335758 "taxi-body.tex" "taxi-body.pdf" "taxi-body" 1512335758
+["pdflatex"] 1512364925 "taxi-body.tex" "taxi-body.pdf" "taxi-body" 1512364928
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1480098701 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2017basic/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
+  "/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1509380761 2337955 cbae1c8f078d563f1a52d3a956d59179 ""
   "/usr/local/texlive/2017basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1506986632 2588968 77191adb4cdf90d8258099c98330a75f ""
   "/usr/local/texlive/2017basic/texmf.cnf" 1496851631 628 b344fac068e513a3e5fe2214c3a47398 ""
   "taxi-body.aux" 1511727284 8 a94a2480d3289e625eea47cd1b285758 ""
-  "taxi-body.tex" 1512335757 10348 6fd27fa66524fc34d47648b0f0fb815b ""
+  "taxi-body.tex" 1512364924 27122 15fcd61b06b78adc46c339d882dd3eec ""
   (generated)
-  "taxi-body.log"
   "taxi-body.pdf"
+  "taxi-body.log"

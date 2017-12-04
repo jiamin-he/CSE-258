@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.2)  3 DEC 2017 17:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.2)  4 DEC 2017 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -734,7 +734,12 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count132
 \@thisrulewidth=\dimen155
 )
-\c@theorem=\count133
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count133
+\c@subtable=\count134
+)
+\c@theorem=\count135
 
 Excluding comment 'screenonly' Include comment 'printonly'
 Include comment 'anonsuppress' (./taxi-prediction.aux)
@@ -860,7 +865,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 y
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count134
+\c@section@level=\count136
 )
 LaTeX Info: Redefining \ref on input line 42.
 LaTeX Info: Redefining \pageref on input line 42.
@@ -872,16 +877,16 @@ LaTeX Info: Redefining \nameref on input line 42.
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count135
+\scratchcounter=\count137
 \scratchdimen=\dimen156
 \scratchbox=\box35
-\nofMPsegments=\count136
-\nofMParguments=\count137
+\nofMPsegments=\count138
+\nofMParguments=\count139
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count138
+\MPscratchCnt=\count140
 \MPscratchDim=\dimen157
-\MPnumerator=\count139
-\makeMPintoPDFobject=\count140
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
 \everyMPtoPDFconversion=\toks33
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -933,8 +938,8 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count141
-\c@mv@boldtabular=\count142
+\c@mv@tabular=\count143
+\c@mv@boldtabular=\count144
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
@@ -999,79 +1004,265 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 91.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 91.
- (./taxi-body.tex
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 3.
+(Font)              scaled to size 9.0pt on input line 91.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 3.
+(Font)              scaled to size 7.3pt on input line 91.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 3.
- <images/intro.png, id=79, 1204.5pt x 602.25pt>
+(Font)              scaled to size 5.5pt on input line 91.
+ (./taxi-body.tex <images/intro.png, id=118, 1204.5pt x 602.25pt>
 File: images/intro.png Graphic file (type png)
 
 <use images/intro.png>
 Package pdftex.def Info: images/intro.png used on input line 8.
 (pdftex.def)             Requested size: 202.51491pt x 101.25082pt.
+
+Underfull \vbox (badness 3954) has occurred while \output is active []
+
  [1.1{/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 }
 
  <./images/intro.png>]
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 62.
+(Font)              scaled to size 9.0pt on input line 61.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 62.
- [2.2]
-<images/ink.png, id=126, 2055.68pt x 1320.935pt>
+(Font)              scaled to size 9.0pt on input line 61.
+ <images/prevelance.png, id=144, 401.5pt x 257.46187pt>
+File: images/prevelance.png Graphic file (type png)
+
+<use images/prevelance.png>
+Package pdftex.def Info: images/prevelance.png used on input line 64.
+(pdftex.def)             Requested size: 202.51491pt x 129.86595pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/nyc.png, id=148, 378.91562pt x 408.52625pt>
+File: images/nyc.png Graphic file (type png)
+ <use images/nyc.png>
+Package pdftex.def Info: images/nyc.png used on input line 73.
+(pdftex.def)             Requested size: 202.51491pt x 218.34433pt.
+
+<images/pink.png, id=151, 401.5pt x 226.8475pt>
+File: images/pink.png Graphic file (type png)
+ <use images/pink.png>
+Package pdftex.def Info: images/pink.png used on input line 82.
+(pdftex.def)             Requested size: 202.51491pt x 114.42381pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/month.png, id=154, 401.5pt x 256.96pt>
+File: images/month.png Graphic file (type png)
+ <use images/month.png>
+Package pdftex.def Info: images/month.png used on input line 91.
+(pdftex.def)             Requested size: 202.51491pt x 129.61281pt.
+ [2.2 <./images/prevelance.png> <./images/nyc.png>]
+<images/sex.png, id=184, 401.5pt x 248.93pt>
+File: images/sex.png Graphic file (type png)
+ <use images/sex.png>
+Package pdftex.def Info: images/sex.png used on input line 100.
+(pdftex.def)             Requested size: 202.51491pt x 125.56241pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/sex2.png, id=185, 401.5pt x 250.9375pt>
+File: images/sex2.png Graphic file (type png)
+ <use images/sex2.png>
+Package pdftex.def Info: images/sex2.png used on input line 107.
+(pdftex.def)             Requested size: 202.51491pt x 126.57501pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/velocity.png, id=186, 401.5pt x 253.94875pt>
+File: images/velocity.png Graphic file (type png)
+ <use images/velocity.png>
+Package pdftex.def Info: images/velocity.png used on input line 114.
+(pdftex.def)             Requested size: 202.51491pt x 128.09392pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/sub.png, id=189, 401.5pt x 233.87375pt>
+File: images/sub.png Graphic file (type png)
+ <use images/sub.png>
+Package pdftex.def Info: images/sub.png used on input line 123.
+(pdftex.def)             Requested size: 202.51491pt x 117.9679pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/sub2.png, id=190, 401.5pt x 242.9075pt>
+File: images/sub2.png Graphic file (type png)
+ <use images/sub2.png>
+Package pdftex.def Info: images/sub2.png used on input line 130.
+(pdftex.def)             Requested size: 202.51491pt x 122.52461pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3.3 <./images/pink.png> <./images/month.png> <./images/sex.png> <./images/sex2
+.png> <./images/velocity.png>]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+ [4.4 <./images/sub.png> <./images/sub2.png>]
+<images/imp.png, id=230, 401.5pt x 263.98625pt>
+File: images/imp.png Graphic file (type png)
+ <use images/imp.png>
+Package pdftex.def Info: images/imp.png used on input line 173.
+(pdftex.def)             Requested size: 202.51491pt x 133.1569pt.
+
+<images/ink.png, id=235, 2055.68pt x 1320.935pt>
 File: images/ink.png Graphic file (type png)
  <use images/ink.png>
-Package pdftex.def Info: images/ink.png used on input line 108.
+Package pdftex.def Info: images/ink.png used on input line 183.
 (pdftex.def)             Requested size: 202.51491pt x 130.12596pt.
+
+<images/lambda.png, id=238, 2055.68pt x 1284.8pt>
+File: images/lambda.png Graphic file (type png)
+ <use images/lambda.png>
+Package pdftex.def Info: images/lambda.png used on input line 204.
+(pdftex.def)             Requested size: 202.51491pt x 126.56628pt.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 213.
+
+<images/depth.png, id=243, 2055.68pt x 1262.7175pt>
+File: images/depth.png Graphic file (type png)
+ <use images/depth.png>
+Package pdftex.def Info: images/depth.png used on input line 218.
+(pdftex.def)             Requested size: 202.51491pt x 124.39093pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5.5 <./images/imp.png> <./images/ink.png> <./images/lambda.png>]
+<images/square.png, id=263, 401.5pt x 254.45062pt>
+File: images/square.png Graphic file (type png)
+ <use images/square.png>
+Package pdftex.def Info: images/square.png used on input line 231.
+(pdftex.def)             Requested size: 202.51491pt x 128.34706pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 [][][]\T1/LinuxLibertineT-TLF/m/n/7 (+20) Hubway Bike Share: []$http : / / www 
 . cambridgema . gov / CDD / Transportation /
  []
 
-
+[6.6 <./images/depth.png> <./images/square.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3.3 <./images/ink.png>]) (./taxi-prediction.bbl
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 43.
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--47
+<images/res1.png, id=309, 401.5pt x 254.45062pt>
+File: images/res1.png Graphic file (type png)
+ <use images/res1.png>
+Package pdftex.def Info: images/res1.png used on input line 281.
+(pdftex.def)             Requested size: 202.51491pt x 128.34706pt.
+
+<images/res2.png, id=310, 401.5pt x 265.49188pt>
+File: images/res2.png Graphic file (type png)
+ <use images/res2.png>
+Package pdftex.def Info: images/res2.png used on input line 288.
+(pdftex.def)             Requested size: 202.51491pt x 133.91637pt.
+
+<images/base.png, id=311, 401.5pt x 245.91875pt>
+File: images/base.png Graphic file (type png)
+ <use images/base.png>
+Package pdftex.def Info: images/base.png used on input line 321.
+(pdftex.def)             Requested size: 90.4303pt x 55.38936pt.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 322.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 322.
+
+<images/linear.png, id=312, 401.5pt x 260.975pt>
+File: images/linear.png Graphic file (type png)
+ <use images/linear.png>
+Package pdftex.def Info: images/linear.png used on input line 327.
+(pdftex.def)             Requested size: 90.4303pt x 58.78055pt.
+
+<images/ridge.png, id=313, 401.5pt x 254.45062pt>
+File: images/ridge.png Graphic file (type png)
+ <use images/ridge.png>
+Package pdftex.def Info: images/ridge.png used on input line 333.
+(pdftex.def)             Requested size: 90.4303pt x 57.31104pt.
+
+<images/random.png, id=314, 401.5pt x 258.46562pt>
+File: images/random.png Graphic file (type png)
+ <use images/random.png>
+Package pdftex.def Info: images/random.png used on input line 339.
+(pdftex.def)             Requested size: 90.4303pt x 58.21535pt.
+
+<images/xgb.png, id=315, 401.5pt x 256.96pt>
+File: images/xgb.png Graphic file (type png)
+ <use images/xgb.png>
+Package pdftex.def Info: images/xgb.png used on input line 345.
+(pdftex.def)             Requested size: 90.4303pt x 57.87624pt.
+
+<images/ensemble.png, id=316, 401.5pt x 251.94125pt>
+File: images/ensemble.png Graphic file (type png)
+ <use images/ensemble.png>
+Package pdftex.def Info: images/ensemble.png used on input line 351.
+(pdftex.def)             Requested size: 90.4303pt x 56.74583pt.
+
+[7.7 <./images/res1.png> <./images/res2.png>]) (./taxi-prediction.bbl
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 44.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) [n. d.].  \T1/LinuxLibertineT-TLF/m/it/7 
 (+20) Bike Share in the US: 2010-2016\T1/LinuxLibertineT-TLF/m/n/7 (+20) .   []
 $https : / / nacto . org /
  []
 
-) [4.4
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--76
+[]\T1/LinuxLibertineT-TLF/m/n/7 (+20) [n. d.].  \T1/LinuxLibertineT-TLF/m/it/7 
+(+20) A Gen-tle In-tro-duc-tion to XG-Boost for Ap-plied Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--76
+\T1/LinuxLibertineT-TLF/m/it/7 (+20) chine Learn-ing\T1/LinuxLibertineT-TLF/m/n
+/7 (+20) .   []$https : / / machinelearningmastery . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+[]\T1/LinuxLibertineT-TLF/m/n/7 (+20) [n. d.].  \T1/LinuxLibertineT-TLF/m/it/7 
+(+20) KAG-GLE EN-SEM-BLING GUIDE\T1/LinuxLibertineT-TLF/m/n/7 (+20) .   []$http
+s : / / mlwave . com /
+ []
+
+[8.8 <./images/base.png> <./images/linear.png> <./images/ridge.png> <./images/r
+andom.png> <./images/xgb.png> <./images/ensemble.png>]) [9.9
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
- (./taxi-prediction.aux)
+
+(./taxi-prediction.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
 Package rerunfilecheck Info: File `taxi-prediction.out' has not changed.
-(rerunfilecheck)             Checksum: EFD65345279D9DB80199B787D48AE315;2480.
+(rerunfilecheck)             Checksum: 34721D72844BF38D6677065A5BF20DF3;3978.
  ) 
 Here is how much of TeX's memory you used:
- 17988 strings out of 494437
- 272345 string characters out of 6166645
- 383207 words of memory out of 5000000
- 20541 multiletter control sequences out of 15000+600000
- 140059 words of font info for 253 fonts, out of 8000000 for 9000
+ 18282 strings out of 494437
+ 277453 string characters out of 6166645
+ 387269 words of memory out of 5000000
+ 20731 multiletter control sequences out of 15000+600000
+ 160052 words of font info for 279 fonts, out of 8000000 for 9000
  480 hyphenation exceptions out of 8191
- 60i,11n,94p,1124b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,94p,1125b,650s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_7gruk
 w.enc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/newtx/libertinea
-lt.enc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_
-oexx6f.enc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc
+lt.enc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc}{/u
+sr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
 }{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq
 .enc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_na
 ooyc.enc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbt
@@ -1084,13 +1275,14 @@ dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2017bas
 ic/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texli
 ve/2017basic/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/l
 ocal/texlive/2017basic/texmf-dist/fonts/type1/public/newtx/fxlri-7letters.pfb><
-/usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></u
-sr/local/texlive/2017basic/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/
-local/texlive/2017basic/texmf-dist/fonts/type1/public/newtx/zxlri.pfb>
-Output written on taxi-prediction.pdf (4 pages, 732495 bytes).
+/usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></
+usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></us
+r/local/texlive/2017basic/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/l
+ocal/texlive/2017basic/texmf-dist/fonts/type1/public/newtx/zxlri.pfb>
+Output written on taxi-prediction.pdf (9 pages, 3891178 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 219 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
- 38043 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 462 PDF objects out of 1000 (max. 8388607)
+ 373 compressed objects within 4 object streams
+ 106 named destinations out of 1000 (max. 500000)
+ 44876 words of extra memory for PDF output out of 51595 (max. 10000000)
 

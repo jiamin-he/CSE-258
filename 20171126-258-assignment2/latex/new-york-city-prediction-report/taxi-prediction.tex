@@ -4,7 +4,7 @@
 
 \usepackage{graphicx}
 \graphicspath{ {images/} }
-
+\usepackage{subcaption}
 % Copyright
 %\setcopyright{none}
 %\setcopyright{acmcopyright}
@@ -47,7 +47,7 @@
 
 \author{Zhuo Cheng}
 \affiliation{%
-  A xxxx \\
+  A53233235\\
   \institution{UC San Diego}
   \city{San Diego} 
   \state{CA} 
@@ -56,7 +56,7 @@
 
 \author{Tianran Zhang}
 \affiliation{%
-  Axxxx\\
+  A53237053\\
   \institution{UC San Diego}
   \city{San Diego} 
   \state{CA} 
@@ -79,15 +79,14 @@
 
 
 \begin{abstract}
-  In this project, a model that predicts the total ride duration of taxi trips in New York City is built. The patterns related to the geographical locations and pick-up and pick-off time with passenger businesses are observed and evaluated. We utilize the dataset released by the NYC Taxi and Limousine Commision, which provides the necessary information to accomplish our goal
-  We manipulated and mined the dataset by multiple models we learned from CSE 258 course taught by Prof.Julian McAuley and the further reading materials. [MODELS MODELS MODELS] [RESULTS RESULTS RESULTS] Predicting fare[??] and duration of a ride can help passengers decide when to start a commute and help drivers decide an optimal ride. Our model can be used to give an estimated fare and duration prediction.
-
+  In this project, a model that predicts the ride duration of a share bike trip in New York City is built. The patterns related to the geographical locations and start and end time with passenger businesses are observed and evaluated. We utilize the dataset released by the Citi Bike Share System in New York City\footnote{Citi Bike Share System:
+\url{https://www.citibikenyc.com}}, which provides the necessary information to accomplish our duration prediction goal. We manipulated and mined the dataset by multiple models we learned from CSE 258 course taught by Prof. Julian McAuley and the further reading materials. We used linear regression, ridge regression, random forest, XGBoost and the ensemble of random forest and XGBoost to build different regression models. And we finally get a best model by utilizing XGBoost, which helps to predict the duration of a ride and thus helps users decide a time-saving transportation means. 
 
 \end{abstract}
 
 
 
-\keywords{Give me FIVE!!!!!!}
+\keywords{Share Bike, Duration Prediction, Linear Regression, Random Forest Regression, XGBoost}
 
 \maketitle
 

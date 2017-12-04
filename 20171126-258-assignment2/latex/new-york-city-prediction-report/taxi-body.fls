@@ -5,3 +5,6 @@ INPUT /usr/local/texlive/2017basic/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT taxi-body.tex
 OUTPUT taxi-body.log
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+OUTPUT taxi-body.pdf
+INPUT /usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map
