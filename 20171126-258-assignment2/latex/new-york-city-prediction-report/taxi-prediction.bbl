@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{3}
+\begin{thebibliography}{10}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -63,6 +63,102 @@
 \newblock
 \newblock
 \shownote{\url{https://www.curbed.com/2017/3/21/15006248/bike-share-ridership-transit-safety}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{geo}{[n. d.]}]%
+        {geopy}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \bibinfo{booktitle}{{\em Python Geopy Toolbox}}.
+\newblock
+\newblock
+\shownote{\url{https://pypi.python.org/pypi/geopy}.}
+
+
+\bibitem[\protect\citeauthoryear{Cardozo, Garc{\'\i}a-Palomares, and
+  Guti{\'e}rrez}{Cardozo et~al\mbox{.}}{2012}]%
+        {car}
+\bibfield{author}{\bibinfo{person}{Osvaldo~Daniel Cardozo},
+  \bibinfo{person}{Juan~Carlos Garc{\'\i}a-Palomares}, {and}
+  \bibinfo{person}{Javier Guti{\'e}rrez}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Application of geographically weighted regression
+  to the direct forecasting of transit ridership at station-level}.
+\newblock \bibinfo{journal}{{\em Applied Geography\/}}  \bibinfo{volume}{34}
+  (\bibinfo{year}{2012}), \bibinfo{pages}{548--558}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Fishman, Washington, Haworth, and
+  Watson}{Fishman et~al\mbox{.}}{2015}]%
+        {fish}
+\bibfield{author}{\bibinfo{person}{Elliot Fishman}, \bibinfo{person}{Simon
+  Washington}, \bibinfo{person}{Narelle Haworth}, {and} \bibinfo{person}{Angela
+  Watson}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Factors influencing bike share membership: An
+  analysis of Melbourne and Brisbane}.
+\newblock \bibinfo{journal}{{\em Transportation research part A: policy and
+  practice\/}}  \bibinfo{volume}{71} (\bibinfo{year}{2015}),
+  \bibinfo{pages}{17--30}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Guti{\'e}rrez, Cardozo, and
+  Garc{\'\i}a-Palomares}{Guti{\'e}rrez et~al\mbox{.}}{2011}]%
+        {gu}
+\bibfield{author}{\bibinfo{person}{Javier Guti{\'e}rrez},
+  \bibinfo{person}{Osvaldo~Daniel Cardozo}, {and} \bibinfo{person}{Juan~Carlos
+  Garc{\'\i}a-Palomares}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Transit ridership forecasting at station level: an
+  approach based on distance-decay weighted regression}.
+\newblock \bibinfo{journal}{{\em Journal of Transport Geography\/}}
+  \bibinfo{volume}{19}, \bibinfo{number}{6} (\bibinfo{year}{2011}),
+  \bibinfo{pages}{1081--1092}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Li, Zheng, Zhang, and Chen}{Li
+  et~al\mbox{.}}{2015}]%
+        {Li}
+\bibfield{author}{\bibinfo{person}{Yexin Li}, \bibinfo{person}{Yu Zheng},
+  \bibinfo{person}{Huichu Zhang}, {and} \bibinfo{person}{Lei Chen}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Traffic Prediction in a Bike-sharing System}. In
+  \bibinfo{booktitle}{{\em Proceedings of the 23rd SIGSPATIAL International
+  Conference on Advances in Geographic Information Systems}} {\em
+  (\bibinfo{series}{SIGSPATIAL '15})}. \bibinfo{publisher}{ACM},
+  \bibinfo{address}{New York, NY, USA}, Article \bibinfo{articleno}{33},
+  \bibinfo{numpages}{10}~pages.
+\newblock
+\showISBNx{978-1-4503-3967-4}
+\showDOI{%
+\url{https://doi.org/10.1145/2820783.2820837}}
+
+
+\bibitem[\protect\citeauthoryear{Vogel and Mattfeld}{Vogel and
+  Mattfeld}{2010}]%
+        {vogel}
+\bibfield{author}{\bibinfo{person}{Patrick Vogel} {and}
+  \bibinfo{person}{Dirk~Christian Mattfeld}.} \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Modeling of repositioning activities in
+  bike-sharing systems}. In \bibinfo{booktitle}{{\em World conference on
+  transport research (WCTR)}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zheng, Liu, Wang, and Xie}{Zheng
+  et~al\mbox{.}}{2008}]%
+        {zheng}
+\bibfield{author}{\bibinfo{person}{Yu Zheng}, \bibinfo{person}{Like Liu},
+  \bibinfo{person}{Longhao Wang}, {and} \bibinfo{person}{Xing Xie}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{Learning Transportation Mode from Raw Gps Data for
+  Geographic Applications on the Web}. In \bibinfo{booktitle}{{\em Proceedings
+  of the 17th International Conference on World Wide Web}} {\em
+  (\bibinfo{series}{WWW '08})}. \bibinfo{publisher}{ACM}, \bibinfo{address}{New
+  York, NY, USA}, \bibinfo{pages}{247--256}.
+\newblock
+\showISBNx{978-1-60558-085-2}
+\showDOI{%
+\url{https://doi.org/10.1145/1367497.1367532}}
 
 
 \end{thebibliography}

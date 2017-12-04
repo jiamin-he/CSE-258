@@ -15,11 +15,16 @@ Warning--to sort, need author, editor, or key in bike
 Warning--no key, author, editor or organization in spread
 Warning--no author, editor, organization, or key in spread
 Warning--to sort, need author, editor, or key in spread
+Warning--no key, author, editor or organization in geopy
+Warning--no author, editor, organization, or key in geopy
+Warning--to sort, need author, editor, or key in geopy
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Warning--no key, author, editor or organization in bike
 Warning--no key, author, editor or organization in bike
+Warning--no key, author, editor or organization in geopy
+Warning--no key, author, editor or organization in geopy
 Warning--no key, author, editor or organization in spread
 Warning--no key, author, editor or organization in spread
 Warning--no key, author, editor or organization in us
@@ -40,45 +45,54 @@ Warning--no author, editor, organization, or key in spread
 Warning--empty organization in spread
 Warning--empty year in spread
 Warning--empty organization in spread
-You've used 3 entries,
+Warning--no key, author, editor or organization in geopy
+Warning--no author, editor, organization, or key in geopy
+Warning--empty organization in geopy
+Warning--empty year in geopy
+Warning--empty organization in geopy
+Warning--empty publisher in vogel
+Warning--empty address in vogel
+Warning--page numbers missing in both pages and numpages fields in vogel
+Warning--numpages field, but no articleno or eid field, in zheng
+You've used 10 entries,
             5795 wiz_defined-function locations,
-            1321 strings with 15631 characters,
-and the built_in function-call counts, 2127 in all, are:
-= -- 141
-> -- 0
+            1376 strings with 17210 characters,
+and the built_in function-call counts, 10324 in all, are:
+= -- 1170
+> -- 276
 < -- 0
-+ -- 3
-- -- 0
-* -- 146
-:= -- 128
-add.period$ -- 12
-call.type$ -- 3
-change.case$ -- 12
-chr.to.int$ -- 3
-cite$ -- 45
-duplicate$ -- 250
-empty$ -- 199
-format.name$ -- 0
-if$ -- 524
++ -- 94
+- -- 88
+* -- 755
+:= -- 902
+add.period$ -- 45
+call.type$ -- 10
+change.case$ -- 60
+chr.to.int$ -- 10
+cite$ -- 70
+duplicate$ -- 995
+empty$ -- 730
+format.name$ -- 112
+if$ -- 2551
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 67
-num.names$ -- 0
-pop$ -- 208
+missing$ -- 26
+newline$ -- 127
+num.names$ -- 48
+pop$ -- 518
 preamble$ -- 1
-purify$ -- 21
+purify$ -- 126
 quote$ -- 0
-skip$ -- 61
+skip$ -- 302
 stack$ -- 0
-substring$ -- 78
-swap$ -- 18
+substring$ -- 663
+swap$ -- 90
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 90
-warning$ -- 30
-while$ -- 0
+type$ -- 258
+warning$ -- 44
+while$ -- 40
 width$ -- 0
-write$ -- 84
-(There were 30 warnings)
+write$ -- 210
+(There were 44 warnings)
