@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex taxi-prediction"] 1512429062 "taxi-prediction.aux" "taxi-prediction.bbl" "taxi-prediction" 1512429065
+["bibtex taxi-prediction"] 1512429062 "taxi-prediction.aux" "taxi-prediction.bbl" "taxi-prediction" 1512429254
   "./ACM-Reference-Format.bst" 1511749430 81890 d0c962ee7b00c892f073ec6439091590 ""
   "taxi-bibliography.bib" 1512369817 6446 17c7b52d11ba7a92a79bbba282f0d661 ""
   "taxi-prediction.aux" 1512429065 11192 75ed3c53af8ab733ec035043c3fa9197 ""
   (generated)
   "taxi-prediction.blg"
   "taxi-prediction.bbl"
-["pdflatex"] 1512429062 "taxi-prediction.tex" "taxi-prediction.pdf" "taxi-prediction" 1512429065
+["pdflatex"] 1512429062 "taxi-prediction.tex" "taxi-prediction.pdf" "taxi-prediction" 1512429254
   "/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490133665 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490133665 2933 9ad527ce78d7c5fa0a642dead095f172 ""
@@ -233,7 +233,7 @@
   "taxi-prediction.tex" 1512427273 3901 a23352450945c11eccc9c3df394fc687 ""
   (generated)
   "taxi-prediction.pdf"
-  "taxi-prediction.out"
-  "comment.cut"
   "taxi-prediction.aux"
   "taxi-prediction.log"
+  "comment.cut"
+  "taxi-prediction.out"
